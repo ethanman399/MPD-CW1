@@ -1,0 +1,4 @@
+#Thu Aug 15 10:45:32 BST 2024
+base.0=F\:\\Users\\Drako\\AndroidStudioProjects\\Man_Ethan_S2289080\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

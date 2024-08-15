@@ -1,0 +1,6 @@
+com.example.man_ethan_s2289080.test.app-annotation-experimental-1.3.0-0 F:\Users\Drako\.gradle\caches\transforms-4\58cbfe0fa1deea34af14f9644281a9f7\transformed\annotation-experimental-1.3.0\res
+com.example.man_ethan_s2289080.test.app-core-1.5.0-1 F:\Users\Drako\.gradle\caches\transforms-4\ec9450e1d114682d891b53dc2d799cea\transformed\core-1.5.0\res
+com.example.man_ethan_s2289080.test.app-androidTest-2 F:\Users\Drako\AndroidStudioProjects\Man_Ethan_S2289080\app\build\generated\res\resValues\androidTest\debug
+com.example.man_ethan_s2289080.test.app-mergeDebugAndroidTestResources-3 F:\Users\Drako\AndroidStudioProjects\Man_Ethan_S2289080\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.man_ethan_s2289080.test.app-mergeDebugAndroidTestResources-4 F:\Users\Drako\AndroidStudioProjects\Man_Ethan_S2289080\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.man_ethan_s2289080.test.app-debugAndroidTest-5 F:\Users\Drako\AndroidStudioProjects\Man_Ethan_S2289080\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
